@@ -1,2 +1,0 @@
-isabel.ns.cloudflare.com
-mustafa.ns.cloudflare.com
